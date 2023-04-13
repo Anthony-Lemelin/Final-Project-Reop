@@ -11,5 +11,7 @@ The project uses Python and geospatial data analysis packages such as GeoPandas,
 - Use the data sources linked above for the optimal experience of this project
 - Enure that Python, Geopandas, Matplotlib are installed
 - Since this is data based on sightings, it is assumed that these sightings are accurate and legitimate 
+- ONLY RUN THE CELLS THAT MAKE THE GDF AND THE PLOTS
+- NO NEED TO RUN THE CELLS THAT GIVE THE BOROUGH INFORMATION IN TABLE
 - If any issues with running the code or any questions in general feel free to conctact me: mtlwildlifemanagement@gmail.com
 
